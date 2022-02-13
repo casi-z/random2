@@ -1,80 +1,79 @@
-const link = document.querySelector('.link');
-
 let x = Math.random();
 console.log(x);
 if (x > 0.1) {
-    link.href = "https://vk.com/feed";
-    link.style.color = "green";
+    window.location.href = "https://vk.com/feed";
+    
 }
 if (x > 0.15) {
-    link.href = "https://vk.com/id495886604";
-    link.style.color = "blue";
+    window.location.href = "https://vk.com/id495886604";
+    
 }
 
 if (x > 0.2) {
-    link.href = "https://yandex.ru/";
-    link.style.color = "magenta";
+    window.location.href = "https://yandex.ru/";
+    
 }
 if (x > 0.25) {
-    link.href = "https://school.mosreg.ru/feed";
-    link.style.color = "magenta";
+    window.location.href = "https://school.mosreg.ru/feed";
+    
 }
 if (x > 0.3) {
-    link.href = "https://www.google.ru/";
-    link.style.color = "violet"
+    window.location.href = "https://www.google.ru/";
+    
 }
 if (x > 0.35) {
-    link.href = "https://www.instagram.com/";
-    link.style.color = "red";
+    window.location.href = "https://www.instagram.com/";
+
 }
 if (x > 0.4) {
-    link.href = "https://ru-ru.facebook.com/";
-    link.style.color = "yellow";
+    window.location.href = "https://ru-ru.facebook.com/";
+    
 }
 if (x > 0.45) {
-    link.href = "https://mail.yandex.ru/#inbox";
-    link.style.color = "magenta";
+    window.location.href = "https://mail.yandex.ru/#inbox";
+
 }
 if (x > 0.5) {
-    link.href = "https://mail.google.com/mail/u/0/#inbox";
-    link.style.color = "magenta";
+    window.location.href = "https://mail.google.com/mail/u/0/#inbox";
+
 }
 if (x > 0.55) {
-    link.href = "https://www.kinopoisk.ru/";
-    link.style.color = "red";
+    window.location.href = "https://www.kinopoisk.ru/";
+
 }
 if (x > 0.6) {
-    link.href = "https://vk.com/seryogataran2005";
-    link.style.color = "green";
+    window.location.href = "https://vk.com/taran16";
+
 }
 if (x > 0.65) {
-    link.href = "https://vk.com/dayvinchik";
-    link.style.color = "violet"
+    window.location.href = "https://vk.com/dayvinchik";
+
 }
 if (x > 0.7) {
-    link.href = "https://twitter.com/";
-    link.style.color = "blue";
+    window.location.href = "https://twitter.com/";
+
 }
 if (x > 0.75) {
-    link.href = "https://music.yandex.ru/home";
-    link.style.color = "blue";
+    window.location.href = "https://music.yandex.ru/home";
+
 }
 if (x > 0.8) {
-    link.href = "https://open.spotify.com/";
-    link.style.color = "magenta";
+    window.location.href = "https://open.spotify.com/";
+
 }
 if (x > 0.85) {
-    link.href = "https://ok.ru/";
-    link.style.color = "magenta";
+    window.location.href = "https://ok.ru/";
+
 }
 if (x > 0.9) {
-    link.href = "https://rt.pornhub.com/";
-    link.style.color = "brown";
+    window.location.href = "https://rt.pornhub.com/";
+
 }
 if (x > 0.95) {
-    link.href = "https://gdz.ru/";
-    link.style.color = "yellow";
+    window.location.href = "https://gdz.ru/";
+    
 }
+
 
 
 
