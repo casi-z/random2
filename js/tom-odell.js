@@ -1,1 +1,405 @@
-const _0x2df5cd=_0x4f1d;(function(_0x370f26,_0x195650){const _0x4a6df2=_0x4f1d,_0x5a1613=_0x370f26();while(!![]){try{const _0x3795ad=-parseInt(_0x4a6df2(0x1b6))/0x1*(-parseInt(_0x4a6df2(0x1d9))/0x2)+parseInt(_0x4a6df2(0x1e5))/0x3*(-parseInt(_0x4a6df2(0x1c7))/0x4)+-parseInt(_0x4a6df2(0x1c0))/0x5*(parseInt(_0x4a6df2(0x1e9))/0x6)+-parseInt(_0x4a6df2(0x1bb))/0x7+parseInt(_0x4a6df2(0x1c1))/0x8*(-parseInt(_0x4a6df2(0x1b7))/0x9)+parseInt(_0x4a6df2(0x1b0))/0xa+-parseInt(_0x4a6df2(0x1d8))/0xb*(-parseInt(_0x4a6df2(0x1d2))/0xc);if(_0x3795ad===_0x195650)break;else _0x5a1613['push'](_0x5a1613['shift']());}catch(_0x55e48c){_0x5a1613['push'](_0x5a1613['shift']());}}}(_0x5d5f,0x5055a));let x=Math[_0x2df5cd(0x1dc)]();console[_0x2df5cd(0x1b1)](x);x<0.01&&(window['location'][_0x2df5cd(0x1e8)]=_0x2df5cd(0x1ea));x>0.01&&(window['location'][_0x2df5cd(0x1e8)]=_0x2df5cd(0x1ea));x>0.02&&(window[_0x2df5cd(0x1d6)][_0x2df5cd(0x1e8)]='https://vk.com/audio-2001884134_3884134');x>0.03&&(window[_0x2df5cd(0x1d6)]['href']=_0x2df5cd(0x1d3));x>0.04&&(window['location'][_0x2df5cd(0x1e8)]=_0x2df5cd(0x1d5));x>0.05&&(window[_0x2df5cd(0x1d6)][_0x2df5cd(0x1e8)]=_0x2df5cd(0x1c9));x>0.06&&(window['location'][_0x2df5cd(0x1e8)]=_0x2df5cd(0x1cd));x>0.07&&(window[_0x2df5cd(0x1d6)][_0x2df5cd(0x1e8)]=_0x2df5cd(0x1c3));x>0.08&&(window['location']['href']=_0x2df5cd(0x1e4));x>0.09&&(window[_0x2df5cd(0x1d6)][_0x2df5cd(0x1e8)]=_0x2df5cd(0x1de));x>0.1&&(window[_0x2df5cd(0x1d6)][_0x2df5cd(0x1e8)]='https://vk.com/audio-2001561955_91561955');x>0.11&&(window[_0x2df5cd(0x1d6)]['href']='https://vk.com/audio-2001561956_91561956');x>0.12&&(window['location'][_0x2df5cd(0x1e8)]='https://vk.com/audio-2001799893_4799893');x>0.13&&(window[_0x2df5cd(0x1d6)][_0x2df5cd(0x1e8)]=_0x2df5cd(0x1b4));x>0.14&&(window[_0x2df5cd(0x1d6)][_0x2df5cd(0x1e8)]=_0x2df5cd(0x1b5));x>0.15&&(window[_0x2df5cd(0x1d6)][_0x2df5cd(0x1e8)]=_0x2df5cd(0x1df));x>0.16&&(window[_0x2df5cd(0x1d6)][_0x2df5cd(0x1e8)]='https://vk.com/audio-2001884139_3884139');x>0.17&&(window[_0x2df5cd(0x1d6)]['href']=_0x2df5cd(0x1db));x>0.18&&(window[_0x2df5cd(0x1d6)]['href']=_0x2df5cd(0x1b2));x>0.19&&(window['location'][_0x2df5cd(0x1e8)]='https://vk.com/audio-2001884137_3884137');x>0.2&&(window['location'][_0x2df5cd(0x1e8)]=_0x2df5cd(0x1c4));x>0.21&&(window['location'][_0x2df5cd(0x1e8)]=_0x2df5cd(0x1d0));x>0.22&&(window[_0x2df5cd(0x1d6)][_0x2df5cd(0x1e8)]='https://vk.com/audio-2001446043_46446043');x>0.23&&(window[_0x2df5cd(0x1d6)]['href']=_0x2df5cd(0x1e2));x>0.24&&(window['location'][_0x2df5cd(0x1e8)]=_0x2df5cd(0x1b8));x>0.25&&(window['location']['href']='https://vk.com/audio-2001446047_46446047');x>0.26&&(window['location'][_0x2df5cd(0x1e8)]='https://vk.com/audio-2001561967_91561967');x>0.27&&(window['location'][_0x2df5cd(0x1e8)]='https://vk.com/audio-2001446050_46446050');x>0.28&&(window[_0x2df5cd(0x1d6)]['href']='https://vk.com/audio-2001446035_46446035');x>0.29&&(window[_0x2df5cd(0x1d6)][_0x2df5cd(0x1e8)]=_0x2df5cd(0x1be));x>0.3&&(window['location'][_0x2df5cd(0x1e8)]=_0x2df5cd(0x1c8));x>0.31&&(window[_0x2df5cd(0x1d6)]['href']=_0x2df5cd(0x1bc));x>0.32&&(window[_0x2df5cd(0x1d6)][_0x2df5cd(0x1e8)]=_0x2df5cd(0x1dd));x>0.33&&(window[_0x2df5cd(0x1d6)][_0x2df5cd(0x1e8)]='https://vk.com/audio-2001884135_3884135');x>0.34&&(window[_0x2df5cd(0x1d6)]['href']=_0x2df5cd(0x1c5));x>0.35&&(window[_0x2df5cd(0x1d6)][_0x2df5cd(0x1e8)]=_0x2df5cd(0x1d7));x>0.36&&(window[_0x2df5cd(0x1d6)]['href']=_0x2df5cd(0x1da));x>0.37&&(window[_0x2df5cd(0x1d6)][_0x2df5cd(0x1e8)]=_0x2df5cd(0x1e3));x>0.38&&(window[_0x2df5cd(0x1d6)]['href']='https://vk.com/audio-2001561972_91561972');x>0.39&&(window[_0x2df5cd(0x1d6)]['href']='https://vk.com/audio-2001561978_91561978');x>0.4&&(window['location'][_0x2df5cd(0x1e8)]=_0x2df5cd(0x1cb));x>0.41&&(window['location'][_0x2df5cd(0x1e8)]=_0x2df5cd(0x1e7));function _0x4f1d(_0x304403,_0x4e76cd){const _0x5d5fe4=_0x5d5f();return _0x4f1d=function(_0x4f1d4b,_0x138675){_0x4f1d4b=_0x4f1d4b-0x1af;let _0x559a90=_0x5d5fe4[_0x4f1d4b];return _0x559a90;},_0x4f1d(_0x304403,_0x4e76cd);}x>0.42&&(window['location'][_0x2df5cd(0x1e8)]='https://vk.com/audio-2001561973_91561973');x>0.43&&(window[_0x2df5cd(0x1d6)][_0x2df5cd(0x1e8)]=_0x2df5cd(0x1af));x>0.44&&(window[_0x2df5cd(0x1d6)][_0x2df5cd(0x1e8)]=_0x2df5cd(0x1bf));x>0.45&&(window[_0x2df5cd(0x1d6)][_0x2df5cd(0x1e8)]='https://vk.com/audio-2001930111_3930111');x>0.46&&(window[_0x2df5cd(0x1d6)]['href']='https://vk.com/audio-2001333585_50333585');x>0.47&&(window['location'][_0x2df5cd(0x1e8)]='https://vk.com/audio-2001446039_46446039');x>0.48&&(window[_0x2df5cd(0x1d6)]['href']=_0x2df5cd(0x1b3));x>0.49&&(window[_0x2df5cd(0x1d6)][_0x2df5cd(0x1e8)]=_0x2df5cd(0x1e6));x>0.5&&(window[_0x2df5cd(0x1d6)][_0x2df5cd(0x1e8)]='https://vk.com/audio-2001799895_4799895');x>0.51&&(window[_0x2df5cd(0x1d6)][_0x2df5cd(0x1e8)]=_0x2df5cd(0x1b9));x>0.52&&(window[_0x2df5cd(0x1d6)]['href']=_0x2df5cd(0x1cf));x>0.53&&(window[_0x2df5cd(0x1d6)]['href']=_0x2df5cd(0x1bd));x>0.54&&(window['location'][_0x2df5cd(0x1e8)]=_0x2df5cd(0x1ca));x>0.55&&(window[_0x2df5cd(0x1d6)][_0x2df5cd(0x1e8)]='https://vk.com/audio-2001429134_6429134');x>0.56&&(window[_0x2df5cd(0x1d6)][_0x2df5cd(0x1e8)]=_0x2df5cd(0x1e0));x>0.57&&(window[_0x2df5cd(0x1d6)]['href']='https://vk.com/audio-2001799906_4799906');function _0x5d5f(){const _0x4cbfc0=['https://vk.com/audio-2001355020_9355020','https://vk.com/audio-2001799901_4799901','https://vk.com/audio-2001561976_91561976','20qrKlGc','24DVeNKH','https://vk.com/audio-2001799905_4799905','https://vk.com/audio-2001799894_4799894','https://vk.com/audio-2001884141_3884141','https://vk.com/audio-2001884135_3884135','https://vk.com/audio-2001446041_46446041','4LGjdql','https://vk.com/audio-2001567553_7567553','https://vk.com/audio-2001884131_3884131','https://vk.com/audio-2001604106_92604106','https://vk.com/audio-2001561977_91561977','https://vk.com/audio-2001884134_3884134','https://vk.com/audio-2001799892_4799892','https://vk.com/audio-2001446045_46446045','https://vk.com/audio-2001799903_4799903','https://vk.com/audio-2001884138_3884138','https://vk.com/audio-2001429135_6429135','36XOzPQD','https://vk.com/audio-2001561954_91561954','https://vk.com/audio-2001446027_46446027','https://vk.com/audio-2001884142_3884142','location','https://vk.com/audio-2001799900_4799900','3263678zYFqOA','2yrqPpA','https://vk.com/audio-2001799902_4799902','https://vk.com/audio-2001884145_3884145','random','https://vk.com/audio-2001217785_8217785','https://vk.com/audio-2001561971_91561971','https://vk.com/audio-2001446030_46446030','https://vk.com/audio-2001446024_46446024','https://vk.com/audio-2001561956_91561956','https://vk.com/audio-2001799896_4799896','https://vk.com/audio-2001930112_3930112','https://vk.com/audio-2001561957_91561957','234519IxiNup','https://vk.com/audio-2001446009_46446009','https://vk.com/audio-2001884136_3884136','href','612054ZbQwHH','https://vk.com/audio-2001884140_3884140','https://vk.com/audio-2001561974_91561974','3223560ZzfTbG','log','https://vk.com/audio-2001884137_3884137','https://vk.com/audio-2001799899_4799899','https://vk.com/audio-2001561960_91561960','https://vk.com/audio-2001884144_3884144','250217tSfSNY','500211ekZuWs','https://vk.com/audio-2001217787_8217787','https://vk.com/audio-2001561975_91561975','https://vk.com/audio-2001561955_91561955','3364697gZikBt','https://vk.com/audio-2001799898_4799898'];_0x5d5f=function(){return _0x4cbfc0;};return _0x5d5f();}x>0.58&&(window['location'][_0x2df5cd(0x1e8)]='https://vk.com/audio-2001799904_4799904');x>0.59&&(window[_0x2df5cd(0x1d6)][_0x2df5cd(0x1e8)]='https://vk.com/audio-2001799897_4799897');x>0.6&&(window['location'][_0x2df5cd(0x1e8)]=_0x2df5cd(0x1c6));x>0.61&&(window[_0x2df5cd(0x1d6)]['href']=_0x2df5cd(0x1c2));x>0.62&&(window['location']['href']=_0x2df5cd(0x1d4));x>0.63&&(window['location'][_0x2df5cd(0x1e8)]=_0x2df5cd(0x1ce));x>0.64&&(window[_0x2df5cd(0x1d6)][_0x2df5cd(0x1e8)]=_0x2df5cd(0x1d1));x>0.65&&(window['location'][_0x2df5cd(0x1e8)]='https://vk.com/audio-2001446014_46446014');x>0.66&&(window[_0x2df5cd(0x1d6)][_0x2df5cd(0x1e8)]=_0x2df5cd(0x1ea));x>0.67&&(window[_0x2df5cd(0x1d6)]['href']=_0x2df5cd(0x1ea));x>0.68&&(window[_0x2df5cd(0x1d6)][_0x2df5cd(0x1e8)]='https://vk.com/audio-2001884140_3884140');x>0.69&&(window['location'][_0x2df5cd(0x1e8)]=_0x2df5cd(0x1cc));x>0.7&&(window[_0x2df5cd(0x1d6)][_0x2df5cd(0x1e8)]=_0x2df5cd(0x1cc));x>0.71&&(window[_0x2df5cd(0x1d6)]['href']='https://vk.com/audio-2001884134_3884134');x>0.72&&(window['location']['href']='https://vk.com/audio-2001561954_91561954');x>0.73&&(window[_0x2df5cd(0x1d6)]['href']=_0x2df5cd(0x1d3));x>0.74&&(window[_0x2df5cd(0x1d6)][_0x2df5cd(0x1e8)]=_0x2df5cd(0x1d3));x>0.75&&(window['location'][_0x2df5cd(0x1e8)]=_0x2df5cd(0x1d5));x>0.76&&(window[_0x2df5cd(0x1d6)][_0x2df5cd(0x1e8)]=_0x2df5cd(0x1d5));x>0.77&&(window['location'][_0x2df5cd(0x1e8)]=_0x2df5cd(0x1d5));x>0.78&&(window[_0x2df5cd(0x1d6)][_0x2df5cd(0x1e8)]=_0x2df5cd(0x1c9));x>0.79&&(window[_0x2df5cd(0x1d6)][_0x2df5cd(0x1e8)]=_0x2df5cd(0x1c9));x>0.8&&(window[_0x2df5cd(0x1d6)]['href']=_0x2df5cd(0x1c9));x>0.81&&(window[_0x2df5cd(0x1d6)][_0x2df5cd(0x1e8)]=_0x2df5cd(0x1cc));x>0.82&&(window[_0x2df5cd(0x1d6)][_0x2df5cd(0x1e8)]='https://vk.com/audio-2001884134_3884134');x>0.83&&(window[_0x2df5cd(0x1d6)][_0x2df5cd(0x1e8)]='https://vk.com/audio-2001884134_3884134');x>0.84&&(window['location'][_0x2df5cd(0x1e8)]=_0x2df5cd(0x1c9));x>0.85&&(window['location']['href']='https://vk.com/audio-2001884131_3884131');x>0.86&&(window[_0x2df5cd(0x1d6)][_0x2df5cd(0x1e8)]=_0x2df5cd(0x1c9));x>0.87&&(window[_0x2df5cd(0x1d6)][_0x2df5cd(0x1e8)]=_0x2df5cd(0x1c3));x>0.88&&(window[_0x2df5cd(0x1d6)][_0x2df5cd(0x1e8)]=_0x2df5cd(0x1c3));x>0.89&&(window[_0x2df5cd(0x1d6)][_0x2df5cd(0x1e8)]='https://vk.com/audio-2001799894_4799894');x>0.9&&(window['location']['href']=_0x2df5cd(0x1de));x>0.91&&(window[_0x2df5cd(0x1d6)]['href']=_0x2df5cd(0x1de));x>0.92&&(window[_0x2df5cd(0x1d6)][_0x2df5cd(0x1e8)]=_0x2df5cd(0x1de));x>0.93&&(window[_0x2df5cd(0x1d6)][_0x2df5cd(0x1e8)]=_0x2df5cd(0x1ba));x>0.94&&(window[_0x2df5cd(0x1d6)][_0x2df5cd(0x1e8)]=_0x2df5cd(0x1ba));x>0.95&&(window[_0x2df5cd(0x1d6)][_0x2df5cd(0x1e8)]=_0x2df5cd(0x1ba));x>0.96&&(window[_0x2df5cd(0x1d6)][_0x2df5cd(0x1e8)]=_0x2df5cd(0x1e1));x>0.97&&(window[_0x2df5cd(0x1d6)][_0x2df5cd(0x1e8)]=_0x2df5cd(0x1e1));x>0.98&&(window[_0x2df5cd(0x1d6)][_0x2df5cd(0x1e8)]=_0x2df5cd(0x1e1));x>0.99&&(window[_0x2df5cd(0x1d6)][_0x2df5cd(0x1e8)]=_0x2df5cd(0x1e1));
+let x = Math.random();
+console.log(x);
+if (x < 0.01) {
+	window.location.href = "https://vk.com/audio-2001884140_3884140";
+	
+}
+if (x > 0.01) {
+	window.location.href = "https://vk.com/audio-2001884140_3884140";
+	
+}
+if (x > 0.02) {
+    window.location.href = "https://vk.com/audio-2001884134_3884134";
+    
+}
+if (x > 0.03) {
+    window.location.href = "https://vk.com/audio-2001561954_91561954";
+    
+}
+
+if (x > 0.04) {
+    window.location.href = "https://vk.com/audio-2001884142_3884142";
+    
+}
+if (x > 0.05) {
+    window.location.href = "https://vk.com/audio-2001884131_3884131";
+    
+}
+if (x > 0.06) {
+    window.location.href = "https://vk.com/audio-2001799892_4799892";
+    
+}
+if (x > 0.07) {
+    window.location.href = "https://vk.com/audio-2001799894_4799894";
+
+}
+if (x > 0.08) {
+    window.location.href = "https://vk.com/audio-2001561957_91561957";
+    
+}
+if (x > 0.09) {
+    window.location.href = "https://vk.com/audio-2001561971_91561971";
+
+}
+if (x > 0.1) {
+    window.location.href = "https://vk.com/audio-2001561955_91561955";
+
+}
+if (x > 0.11) {
+    window.location.href = "https://vk.com/audio-2001561956_91561956";
+
+}
+if (x > 0.12) {
+    window.location.href = "https://vk.com/audio-2001799893_4799893";
+
+}
+if (x > 0.13) {
+    window.location.href = "https://vk.com/audio-2001561960_91561960";
+
+}
+if (x > 0.14) {
+    window.location.href = "https://vk.com/audio-2001884144_3884144";
+
+}
+if (x > 0.15) {
+    window.location.href = "https://vk.com/audio-2001446030_46446030";
+
+}
+if (x > 0.16) {
+    window.location.href = "https://vk.com/audio-2001884139_3884139";
+
+}
+if (x > 0.17) {
+    window.location.href = "https://vk.com/audio-2001884145_3884145";
+
+}
+if (x > 0.18) {
+    window.location.href = "https://vk.com/audio-2001884137_3884137";
+
+}
+if (x > 0.19) {
+    window.location.href = "https://vk.com/audio-2001884137_3884137";
+    
+}
+if (x > 0.2) {
+	window.location.href = "https://vk.com/audio-2001884141_3884141";
+	
+}
+if (x > 0.21) {
+	window.location.href = "https://vk.com/audio-2001884138_3884138";
+	
+}
+
+if (x > 0.22) {
+	window.location.href = "https://vk.com/audio-2001446043_46446043";
+	
+}
+if (x > 0.23) {
+	window.location.href = "https://vk.com/audio-2001799896_4799896";
+	
+}
+if (x > 0.24) {
+	window.location.href = "https://vk.com/audio-2001217787_8217787";
+	
+}
+if (x > 0.25) {
+	window.location.href = "https://vk.com/audio-2001446047_46446047";
+
+}
+if (x > 0.26) {
+	window.location.href = "https://vk.com/audio-2001561967_91561967";
+	
+}
+if (x > 0.27) {
+	window.location.href = "https://vk.com/audio-2001446050_46446050";
+
+}
+if (x > 0.28) {
+	window.location.href = "https://vk.com/audio-2001446035_46446035";
+
+}
+if (x > 0.29) {
+	window.location.href = "https://vk.com/audio-2001799901_4799901";
+
+}
+if (x > 0.3) {
+	window.location.href = "https://vk.com/audio-2001567553_7567553";
+
+}
+if (x > 0.31) {
+	window.location.href = "https://vk.com/audio-2001799898_4799898";
+
+}
+if (x > 0.32) {
+	window.location.href = "https://vk.com/audio-2001217785_8217785";
+
+}
+if (x > 0.33) {
+	window.location.href = "https://vk.com/audio-2001884135_3884135";
+
+}
+if (x > 0.34) {
+	window.location.href = "https://vk.com/audio-2001884135_3884135";
+
+}
+if (x > 0.35) {
+	window.location.href = "https://vk.com/audio-2001799900_4799900";
+
+}
+if (x > 0.36) {
+	window.location.href = "https://vk.com/audio-2001799902_4799902";
+
+}
+if (x > 0.37) {
+	window.location.href = "https://vk.com/audio-2001930112_3930112";
+	
+}
+if (x > 0.38) {
+	window.location.href = "https://vk.com/audio-2001561972_91561972";
+	
+}
+if (x > 0.39) {
+	window.location.href = "https://vk.com/audio-2001561978_91561978";
+	
+}
+
+if (x > 0.4) {
+	window.location.href = "https://vk.com/audio-2001561977_91561977";
+	
+}
+if (x > 0.41) {
+	window.location.href = "https://vk.com/audio-2001884136_3884136";
+	
+}
+if (x > 0.42) {
+	window.location.href = "https://vk.com/audio-2001561973_91561973";
+	
+}
+if (x > 0.43) {
+	window.location.href = "https://vk.com/audio-2001561974_91561974";
+
+}
+if (x > 0.44) {
+	window.location.href = "https://vk.com/audio-2001561976_91561976";
+	
+}
+if (x > 0.45) {
+	window.location.href = "https://vk.com/audio-2001930111_3930111";
+
+}
+if (x > 0.46) {
+	window.location.href = "https://vk.com/audio-2001333585_50333585";
+
+}
+if (x > 0.47) {
+	window.location.href = "https://vk.com/audio-2001446039_46446039";
+
+}
+if (x > 0.48) {
+	window.location.href = "https://vk.com/audio-2001799899_4799899";
+
+}
+if (x > 0.49) {
+	window.location.href = "https://vk.com/audio-2001446009_46446009";
+
+}
+if (x > 0.5) {
+	window.location.href = "https://vk.com/audio-2001799895_4799895";
+
+}
+if (x > 0.51) {
+	window.location.href = "https://vk.com/audio-2001561975_91561975";
+
+}
+if (x > 0.52) {
+	window.location.href = "https://vk.com/audio-2001799903_4799903";
+
+}
+if (x > 0.53) {
+	window.location.href = "https://vk.com/audio-2001355020_9355020";
+
+}
+if (x > 0.54) {
+	window.location.href = "https://vk.com/audio-2001604106_92604106";
+
+}
+if (x > 0.55) {
+	window.location.href = "https://vk.com/audio-2001429134_6429134";
+	
+}
+if (x > 0.56) {
+	window.location.href = "https://vk.com/audio-2001446024_46446024";
+	
+}
+if (x > 0.57) {
+	window.location.href = "https://vk.com/audio-2001799906_4799906";
+	
+}
+
+if (x > 0.58) {
+	window.location.href = "https://vk.com/audio-2001799904_4799904";
+	
+}
+if (x > 0.59) {
+	window.location.href = "https://vk.com/audio-2001799897_4799897";
+	
+}
+if (x > 0.6) {
+	window.location.href = "https://vk.com/audio-2001446041_46446041";
+	
+}
+if (x > 0.61) {
+	window.location.href = "https://vk.com/audio-2001799905_4799905";
+
+}
+if (x > 0.62) {
+	window.location.href = "https://vk.com/audio-2001446027_46446027";
+	
+}
+if (x > 0.63) {
+	window.location.href = "https://vk.com/audio-2001446045_46446045";
+
+}
+if (x > 0.64) {
+	window.location.href = "https://vk.com/audio-2001429135_6429135";
+
+}
+if (x > 0.65) {
+	window.location.href = "https://vk.com/audio-2001446014_46446014";
+
+}
+if (x > 0.66) {
+	window.location.href = "https://vk.com/audio-2001884140_3884140";
+	
+}
+if (x > 0.67) {
+	window.location.href = "https://vk.com/audio-2001884140_3884140";
+	
+}
+if (x > 0.68) {
+	window.location.href = "https://vk.com/audio-2001884140_3884140";
+	
+}
+if (x > 0.69) {
+	window.location.href = "https://vk.com/audio-2001884134_3884134";
+	
+}
+if (x > 0.7) {
+	window.location.href = "https://vk.com/audio-2001884134_3884134";
+	
+}
+if (x > 0.71) {
+	window.location.href = "https://vk.com/audio-2001884134_3884134";
+	
+}
+if (x > 0.72) {
+	window.location.href = "https://vk.com/audio-2001561954_91561954";
+	
+}
+if (x > 0.73) {
+	window.location.href = "https://vk.com/audio-2001561954_91561954";
+	
+}
+if (x > 0.74) {
+	window.location.href = "https://vk.com/audio-2001561954_91561954";
+	
+}
+if (x > 0.75) {
+	window.location.href = "https://vk.com/audio-2001884142_3884142";
+	
+}
+if (x > 0.76) {
+	window.location.href = "https://vk.com/audio-2001884142_3884142";
+	
+}
+if (x > 0.77) {
+	window.location.href = "https://vk.com/audio-2001884142_3884142";
+	
+}
+if (x > 0.78) {
+	window.location.href = "https://vk.com/audio-2001884131_3884131";
+	
+}
+if (x > 0.79) {
+	window.location.href = "https://vk.com/audio-2001884131_3884131";
+	
+}
+if (x > 0.8) {
+	window.location.href = "https://vk.com/audio-2001884131_3884131";
+	
+}
+if (x > 0.81) {
+	window.location.href = "https://vk.com/audio-2001884134_3884134";
+	
+}
+if (x > 0.82) {
+	window.location.href = "https://vk.com/audio-2001884134_3884134";
+	
+}
+if (x > 0.83) {
+	window.location.href = "https://vk.com/audio-2001884134_3884134";
+	
+}
+if (x > 0.84) {
+	window.location.href = "https://vk.com/audio-2001884131_3884131";
+	
+}
+if (x > 0.85) {
+	window.location.href = "https://vk.com/audio-2001884131_3884131";
+	
+}
+if (x > 0.86) {
+	window.location.href = "https://vk.com/audio-2001884131_3884131";
+	
+}
+if (x > 0.87) {
+	window.location.href = "https://vk.com/audio-2001799894_4799894";
+
+}
+if (x > 0.88) {
+	window.location.href = "https://vk.com/audio-2001799894_4799894";
+
+}
+if (x > 0.89) {
+	window.location.href = "https://vk.com/audio-2001799894_4799894";
+
+}
+if (x > 0.9) {
+	window.location.href = "https://vk.com/audio-2001561971_91561971";
+
+}
+if (x > 0.91) {
+	window.location.href = "https://vk.com/audio-2001561971_91561971";
+
+}
+if (x > 0.92) {
+	window.location.href = "https://vk.com/audio-2001561971_91561971";
+
+}
+if (x > 0.93) {
+	window.location.href = "https://vk.com/audio-2001561955_91561955";
+
+}
+if (x > 0.94) {
+	window.location.href = "https://vk.com/audio-2001561955_91561955";
+
+}
+if (x > 0.95) {
+	window.location.href = "https://vk.com/audio-2001561955_91561955";
+
+}
+if (x > 0.96) {
+	window.location.href = "https://vk.com/audio-2001561956_91561956";
+
+}
+if (x > 0.97) {
+	window.location.href = "https://vk.com/audio-2001561956_91561956";
+
+}
+if (x > 0.98) {
+	window.location.href = "https://vk.com/audio-2001561956_91561956";
+
+}
+if (x > 0.99) {
+	window.location.href = "https://vk.com/audio-2001561956_91561956";
+}
